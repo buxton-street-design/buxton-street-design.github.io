@@ -1,5 +1,5 @@
-#BUXTON STREET DESIGN#
+**Buxton Street Design**
 
-Local services for Petersburg's local business.
+Local design and development serving the Tri City area.
 
-*Build out this page*
+Please check out buxton-street-design.github.io for more information.
