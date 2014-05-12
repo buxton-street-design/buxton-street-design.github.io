@@ -134,7 +134,7 @@ input:required, textarea:required {
 input:not([type="submit"]), textarea{
 outline:none;
 display:block;
-width:380px;
+width:100%;
 padding:4px 8px;
 border:1px dashed #DBDBDB;
 color:#3F3F3F;
